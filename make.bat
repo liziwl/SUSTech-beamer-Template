@@ -1,0 +1,2 @@
+xelatex main
+call clean
